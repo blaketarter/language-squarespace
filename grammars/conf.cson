@@ -1,0 +1,13 @@
+'filetypes': [
+  'conf'
+]
+
+'name': 'conf (squarespace)'
+
+'patterns': [
+  {
+    'include': 'source.json'
+  }
+]
+
+'scopeName': 'source.conf'

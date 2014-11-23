@@ -1,14 +1,13 @@
-'scopeName': 'source.json'
-
 'filetypes': [
-  'conf',
   'preset'
 ]
 
-'name': 'config (squarespace)'
+'name': 'preset (squarespace)'
 
 'patterns': [
   {
     'include': 'source.json'
   }
 ]
+
+'scopeName': 'source.preset'

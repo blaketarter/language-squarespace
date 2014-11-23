@@ -1,0 +1,13 @@
+'filetypes': [
+  'region'
+]
+
+'name': 'region (squarespace)'
+
+'patterns': [
+  {
+    'include': 'source.html'
+  }
+]
+
+'scopeName': 'source.region'

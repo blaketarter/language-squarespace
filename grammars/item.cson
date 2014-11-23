@@ -1,0 +1,13 @@
+'filetypes': [
+  'item'
+]
+
+'name': 'item (squarespace)'
+
+'patterns': [
+  {
+    'include': 'source.html'
+  }
+]
+
+'scopeName': 'source.item'
