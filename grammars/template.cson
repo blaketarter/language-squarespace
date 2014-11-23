@@ -1,10 +1,13 @@
-'scopeName': 'source.block'
+'scopeName': 'source.sqsptemplate'
 
 'filetypes': [
-  'block'
+  'block',
+  'region',
+  'list',
+  'item'
 ]
 
-'name': 'block'
+'name': 'template (squarespace)'
 
 'patterns': [
   {

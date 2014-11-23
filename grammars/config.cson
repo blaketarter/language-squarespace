@@ -1,12 +1,14 @@
+'scopeName': 'source.sqspconfig'
+
 'filetypes': [
+  'conf',
   'preset'
 ]
 
-'name': 'preset'
+'name': 'config (squarespace)'
 
 'patterns': [
   {
     'include': 'source.json'
   }
-
-'scopeName': 'source.preset'
+]
