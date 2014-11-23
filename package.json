@@ -1,7 +1,7 @@
 {
   "name": "squarespace-syntax-highlighting",
   "main": "./lib/squarespace-syntax-highlighting",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Highlight for squarespace files",
   "repository": {
     "type": "git",
@@ -11,6 +11,5 @@
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
