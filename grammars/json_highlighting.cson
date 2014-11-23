@@ -1,0 +1,13 @@
+'filetypes': [
+  'conf',
+  'preset'
+]
+
+'name': 'squarespace_configuration'
+
+'patterns': [
+  {
+    'include': 'source.json'
+  }
+
+'scopeName': 'source.conf'

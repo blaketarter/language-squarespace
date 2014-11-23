@@ -1,0 +1,15 @@
+'filetypes': [
+  'block',
+  'list',
+  'item'
+]
+
+'name': 'squarespace_template'
+
+'patterns': [
+  {
+    'include': 'source.html'
+  }
+]
+
+'scopeName': 'source.block'
