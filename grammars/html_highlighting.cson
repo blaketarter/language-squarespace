@@ -1,5 +1,6 @@
 'filetypes': [
   'block',
+  'region',
   'list',
   'item'
 ]
