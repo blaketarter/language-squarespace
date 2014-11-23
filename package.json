@@ -1,6 +1,5 @@
 {
   "name": "squarespace-syntax-highlighting",
-  "main": "./lib/squarespace-syntax-highlighting",
   "version": "0.1.0",
   "description": "Highlight for squarespace files",
   "repository": {
@@ -10,6 +9,5 @@
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
-  },
-  "dependencies": {}
+  }
 }
