@@ -10,4 +10,4 @@
     'include': 'source.json'
   }
 
-'scopeName': 'source.conf'
+'scopeName': 'source.sqspconf'

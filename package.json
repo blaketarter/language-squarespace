@@ -1,10 +1,10 @@
 {
-  "name": "squarespace-syntax-highlighting",
+  "name": "language-squarespace",
   "version": "0.1.2",
   "description": "Highlight for squarespace files",
   "repository": {
     "type": "git",
-    "url": "https://github.com/blaketarter/atom-squarespace-filetype-highlighting"
+    "url": "https://github.com/blaketarter/language-highlighting"
   },
   "license": "MIT",
   "engines": {
