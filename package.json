@@ -1,7 +1,7 @@
 {
   "name": "language-squarespace",
   "version": "0.3.0",
-  "description": "Highlight for squarespace files",
+  "description": "Syntax Highlighting for SquareSpace files",
   "repository": {
     "type": "git",
     "url": "https://github.com/blaketarter/language-squarespace"
