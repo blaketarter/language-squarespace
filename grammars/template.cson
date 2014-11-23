@@ -1,7 +1,6 @@
-'scopeName': 'source.sqsptemplate'
+'scopeName': 'source.html'
 
 'filetypes': [
-  'sqsptemplate',
   'block',
   'region',
   'list',
