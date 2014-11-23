@@ -1,6 +1,7 @@
 'scopeName': 'source.sqspconfig'
 
 'filetypes': [
+  'sqspconfig',
   'conf',
   'preset'
 ]
