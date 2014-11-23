@@ -1,0 +1,13 @@
+'filetypes': [
+  'block'
+]
+
+'name': 'SquareSpace BLOCK'
+
+'patterns': [
+  {
+    'include': 'source.html'
+  }
+]
+
+'scopeName': 'source.block'

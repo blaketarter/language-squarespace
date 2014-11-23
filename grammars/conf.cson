@@ -1,0 +1,12 @@
+'filetypes': [
+  'conf'
+]
+
+'name': 'SquareSpace CONF'
+
+'patterns': [
+  {
+    'include': 'source.json'
+  }
+
+'scopeName': 'source.conf'

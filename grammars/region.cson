@@ -1,0 +1,13 @@
+'filetypes': [
+  'region'
+]
+
+'name': 'SquareSpace REGION'
+
+'patterns': [
+  {
+    'include': 'source.html'
+  }
+]
+
+'scopeName': 'source.region'

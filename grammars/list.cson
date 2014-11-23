@@ -1,0 +1,13 @@
+'filetypes': [
+  'list'
+]
+
+'name': 'SquareSpace LIST'
+
+'patterns': [
+  {
+    'include': 'source.html'
+  }
+]
+
+'scopeName': 'source.list'
